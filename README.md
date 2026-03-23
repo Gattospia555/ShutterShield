@@ -53,7 +53,8 @@ Whether you are a photographer sharing shots online or a user posting images on 
 * `requirements.txt` - required dependencies (e.g. Pillow, CustomTkinter).
 
 ## 🔐 Why Privacy Matters
-Uploading raw images to the internet can inadvertently leak your home address, daily routines, or the exact locations of your photo shoots (a classic OSINT vulnerability). ShutterShield prevents unintentional data leakage and location tracking by enforcing strict metadata sanitization before any file hits the web.
+Uploading raw images to the internet can inadvertently leak your home address, daily routines, or the exact locations of your photo shoots (a classic OSINT vulnerability).
+ShutterShield prevents unintentional data leakage and location tracking by enforcing strict metadata sanitization before any file hits the web.
 
 ## 📝 License
 Project released under the MIT License.
